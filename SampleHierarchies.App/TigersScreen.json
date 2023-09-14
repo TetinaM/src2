@@ -1,0 +1,125 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 6,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "1. List all tigers"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "2. Create a new tiger"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "3. Delete existing tiger"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "4. Modify existing tiger"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 6,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 6,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Here's a list of tigers:"
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "The list of tigers is empty."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the name of the tiger you want to edit? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the name of the tiger you want to delete? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What name of the tiger? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the tiger's age? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "A tiger is a apex predater? Yes or no? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "A lion is big or small? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What kind of fur does he have?  "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What are his legs? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is his behavior? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Invalid input. Try again"
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Tiger not found."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Tiger after edit:"
+    }
+
+  ]
+}

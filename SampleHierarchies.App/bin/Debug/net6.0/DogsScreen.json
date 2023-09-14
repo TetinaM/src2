@@ -1,0 +1,105 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 6,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "1. List all dogs"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "2. Create a new dog"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "3. Delete existing dog"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "4. Modify existing dog"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 6,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 6,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Here's a list of dogs:"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "The list of dogs is empty."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "What is the name of the dog you want to edit? "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "What is the name of the dog you want to delete? "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "What name of the dog? "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "What is the dog's age? "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "What is the dog's breed "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Invalid input. Try again"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Dog not found."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Dog after edit:"
+    }
+
+  ]
+}

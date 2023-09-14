@@ -1,0 +1,44 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 6,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 12,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 12,
+      "Text": "1. Dogs"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 12,
+      "Text": "2. Cats"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 12,
+      "Text": "3. Lions"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 12,
+      "Text": "4. Elephants"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 12,
+      "Text": "5. Tigers"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor":6,
+      "Text": "Please enter your choice: "
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 6,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "1. List all lions"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "2. Create a new lion"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "3. Delete existing lion"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "4. Modify existing lion"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 6,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 6,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Here's a list of lions:"
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "The list of lions is empty."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the name of the lion you want to edit? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the name of the lion you want to delete? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What name of the lion? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the lions's age? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "A lion is a apex predater? Yes or no? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "A lion is a pack hunter. Yes or no? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is his mane? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What type of communication does a lion have? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Do lions defend territory? Yes or no? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Invalid input. Try again"
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Lion not found."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Lion after edit:"
+    }
+
+  ]
+}

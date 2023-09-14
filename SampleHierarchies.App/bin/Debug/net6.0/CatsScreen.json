@@ -1,0 +1,109 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 6,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 12,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 12,
+      "Text": "1. List all cats"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 12,
+      "Text": "2. Create a new cat"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 12,
+      "Text": "3. Delete existing cat"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 12,
+      "Text": "4. Modify existing cat"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 6,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 6,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Here's a list of cats:"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "The list of cats is empty."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "What is the name of the cat you want to edit? "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "What is the name of the cat you want to delete? "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "What name of the cat? "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "What is the cat's age? "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "What is the cat's breed "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "What is the cat's color "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Invalid input. Try again"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Cat not found."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 12,
+      "Text": "Cat after edit:"
+    }
+  ]
+}

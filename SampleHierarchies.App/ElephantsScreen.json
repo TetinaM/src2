@@ -1,0 +1,125 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 6,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "1. List all elephants"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "2. Create a new elephant"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "3. Delete existing elephant"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 12,
+      "Text": "4. Modify existing elephant"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 6,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 6,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Here's a list of elephants:"
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "The list of elephants is empty."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the name of the elephant you want to edit? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the name of the elephant you want to delete? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What name of the elephant? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the elephant's age? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the elephant's height (cm)? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the elephant's weight (cm)? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the elephant's tusk length (cm)?  "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the elephant's long lifespan? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "What is the social behavior of an elephant? "
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Invalid input. Try again"
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Elephant not found."
+    },
+    {
+      "BackgroundColor": 2,
+      "ForegroundColor": 12,
+      "Text": "Elephant after edit:"
+    }
+
+  ]
+}

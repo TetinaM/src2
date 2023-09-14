@@ -1,0 +1,29 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 6,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 12,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 12,
+      "Text": "1. Animals"
+    },
+    {
+      "BackgroundColor": 3,
+      "ForegroundColor": 12,
+      "Text": "2. Create a new settings"
+    },
+    {
+      "BackgroundColor": 7,
+      "ForegroundColor": 6,
+      "Text": "Please enter your choice: "
+    }
+  ]
+}
